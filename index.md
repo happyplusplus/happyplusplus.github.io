@@ -1,2 +1,2 @@
-# happyplusplus.github.io
-# Welcome! 
+# Happy++ 
+## Welcome to HappyPlusPlus! 😄 
