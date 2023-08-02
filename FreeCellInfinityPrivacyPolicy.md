@@ -1,4 +1,4 @@
-- FreeCell Infinity Privacy Policy
+# FreeCell Infinity Privacy Policy
 
 The provisions of this Privacy Policy, where FreeCell Infinity collects and uses any information that you (the user) provides any information with any FreeCell Infinity game or application (the "Service"). This Privacy Policy applies to all services provided by FreeCell Infinity. By using our services, users agree to collect and use your personal information in this Privacy Policy. FreeCell Infinity can be modified by changing the privacy policy from time to time; therefore, we encourage users to frequently consult the privacy policy.
 
