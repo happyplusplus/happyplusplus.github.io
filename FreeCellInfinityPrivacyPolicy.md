@@ -8,7 +8,7 @@ When you install our games and apps, we will collect and record information to i
 
 Non-personally identifiable information
 
-We may collect information about the user's non-personally identifiable information when they are concerned about our services. The information includes but is not limited to: device type, brand and model, Android operating system version, unique device identifier, location, and country.
+We may collect information about the user's non-personally identifiable information when they are concerned about our services. The information includes but is not limited to: device type, brand and model, Android operating system version, unique device identifier, and country.
 
 Personal information
 
