@@ -1,8 +1,8 @@
-# HappyPlusPlus Studio 
-- We hope our games and apps make your life happier.
-## Our Games And Apps  
+# HappyPlusPlus Studio  
+- Creating Greater Happy Experiences. 
+## Our Games And Apps   
 - FreeCell Infinity
-  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.freecell.infinity.classic.card.game.free)
+  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.freecell.infinity.classic.card.game.free) 
 - Lucky Number
   - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.lucky.number.tool)
 - Dice3D
