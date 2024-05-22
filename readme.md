@@ -3,7 +3,9 @@
 
 # Our Games And Apps     
 - FreeCell Infinity
-  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.freecell.infinity.classic.card.game.free) 
+  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.freecell.infinity.classic.card.game.free)
+- NetSpeed Monitor
+  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.net.speed.monitor.live.network.meter)
 - Lucky Number
   - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.lucky.number.tool)
 - Dice3D
