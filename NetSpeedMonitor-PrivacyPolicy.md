@@ -9,7 +9,7 @@ The information we collect is used to analyze, optimize the app, improve app per
 
 ## Analytics, Ad Networks, and Partners
 We use third-party companies to provide analytics, advertising, and marketing-related services. Here are the URLs to their privacy policies:
-  - Google AdSense 、Google AdMob 和 Firebase
+  - Google AdSense, Google AdMob, and Firebase
 	  - https://www.google.com/policies/privacy/
 	  - https://www.google.com/intl/en/policies/privacy/
 	  - https://support.google.com/admob/answer/9012903
