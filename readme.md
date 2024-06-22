@@ -8,8 +8,6 @@
   - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.net.speed.monitor.live.network.meter)
 - Lucky Number
   - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.lucky.number.tool)
-- Dice3D
-  - [Get it on Google Play](https://play.google.com/store/apps/details?id=com.dice3d.real3ddice.dicehelper)  
 
 # About   
 - "HappyPlusPlus" represents our passion and commitment to enriching lives through our games and applications. The name itself is a direct reflection of our core mission: to bring increased happiness and joy to our users. 
